@@ -1,3 +1,5 @@
+I just added a namespace to Underscore, to not conflict with __ function of Wordpress
+
 Underscore.php
 ==============
 Underscore.php is a PHP port of [Underscore.js](http://documentcloud.github.com/underscore/).

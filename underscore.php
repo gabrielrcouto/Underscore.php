@@ -1,5 +1,5 @@
 <?php
-
+namespace Underscore;
 /**
  * Underscore.php v1.3.1
  * Copyright (c) 2011 Brian Haveri
